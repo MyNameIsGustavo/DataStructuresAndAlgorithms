@@ -2,7 +2,7 @@
     <h1 align="center">Data Structures And Algorithms Repository 📰</h1>
     <p align="justify">Welcome to my Data Structures repository! Here you will find implementations of various commonly used data structures in the field of programming. The goal of this repository is to provide practical and clear examples of how to use these structures, as well as offer search and sorting algorithms.</p>
     <div align="center">
-        <img width=400hr src="https://github.com/MyNameIsGustavo/DataStructuresAndAlgorithms/assets/87160095/3aafe6be-7caa-4515-85c5-6989c1b097b0">
+        <img width=400hr src="https://github.com/MyNameIsGustavo/DataStructuresAndAlgorithms/assets/87160095/4c6a7ed9-202f-47dd-a79a-682c5fafb83c">
     </div>
 </section>
 
